@@ -1,3 +1,4 @@
+[连接测试]《东方红》,https://music.163.com/song/media/outer/url?id=1307601266.mp3
 Akashvani 印度德里广播电台,https://bbx.xmgspace.me/radio/air/httppush/hlspbaudio231/hlspbaudio231_Auto.m3u8
 BBC World Service,https://bbx.xmgspace.me/radio/bbc/bbc_world_service
 BBC Asian Network,https://bbx.xmgspace.me/radio/bbcm3u8/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
