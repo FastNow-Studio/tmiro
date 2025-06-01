@@ -437,10 +437,5 @@ V0A-1,https://stream.radiojar.com/t2n88q0st5quv
 金陵之声,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221227940/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
 四川岷江音乐,http://scgctvshow.sctv.com/SRTRADIO/live/minjiangmusic/1.m3u8
 开封音乐广播,http://live.dxhmt.cn:9081/gb/10200-4.m3u8
-成都文化休闲广播·radio946,http://live.cooltv.top/tv/cdgb.php?id=433-20
-扬州经济音乐广播,http://live.cooltv.top/tv/yz.php?id=jjyy
-常州音乐广播,http://live.cooltv.top/tv/cz.php?id=fm935
-苏州都市音乐广播,http://live.cooltv.top/tv/szradio.php?id=szdsyygb
-太原音乐广播,http://live.cooltv.top/tv/cutv.php?id=tyyygb
-杭州城市资讯广播,http://live.cooltv.top/tv/hz.php?id=23
-石家庄音乐广播,http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
+苏州新闻综合广播,https://cooltv.top/tv/ytradio.php?id=694
+AsiaFM 亚洲热歌台,http://hot.asiafm.net:8000/asiafm
